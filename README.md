@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on **CrossClip**
+- 🔭 I’m currently working on **cClip**
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Mobile App Development, Java, Flutter, and Swift**
 - 📫 How to reach me: **tmthecoder@gmail.com**
