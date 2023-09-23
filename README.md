@@ -11,9 +11,9 @@
 
 ---
 
-- 🔭 I’m currently working on **cClip**
+- 🔭 I’m currently working on **smb_reader**
 - 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **Mobile App Development, Java, Flutter, and Swift**
+- 💬 Ask me about **C++, Rust, Open Source**
 - 📫 How to reach me: **tmthecoder@gmail.com**
 - ⚡ Fun fact: **I'm a HUGE Star Wars fan!**
 
